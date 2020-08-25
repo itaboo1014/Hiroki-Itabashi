@@ -54,6 +54,18 @@ transition:background-color 1s;
   transition:background-color 1s;
 }
 
+.kizai {
+  background-color:lightgreen;
+  text-align:center;
+}
+
+.kizai:hover {
+  background-color:white;
+  color:lightgreen;
+  transition:background-color 1s;
+}
+
+
 .blog {
   text-align:center;
   padding-top:50px;
@@ -67,9 +79,4 @@ transition:background-color 1s;
 
 .blog p{
   color:white;
-}
-
-.kizai {
-  color:white;
-  margin:0 auto;
 }
