@@ -66,17 +66,32 @@ transition:background-color 1s;
 }
 
 
+.schedule {
+  text-align:center;
+  padding-top:50px;
+  padding-bottom:100px;
+}
+
+.schedule h1{
+  color:white;
+  font-size:50px;
+}
+
+.schedule p{
+  color:white;
+}
+
 .blog {
   text-align:center;
   padding-top:50px;
   padding-bottom:100px;
 }
 
-.blog h1{
+.blog h1 {
   color:white;
   font-size:50px;
 }
 
-.blog p{
+.blog {
   color:white;
 }
