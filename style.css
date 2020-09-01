@@ -6,8 +6,10 @@
 }
 
 .header {
-  height:150px;
+  height:100px;
+  width:100%;
   background-color:black;
+  opacity:0.5;
   position:fixed;
   z-index:10;
 }
