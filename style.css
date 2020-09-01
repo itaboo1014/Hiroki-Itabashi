@@ -29,53 +29,24 @@
   padding:20px 40px;
   border-radius:10px;
   color:black;
-  float:left;
+  
 }
 
 .youtube {
   background-color:red;
-  text-align: center;
-}
-
-.youtube:hover {
-background-color:white;
-color:red;
-transition:background-color 1s;
 }
 
 .instagram {
   background-color:orange;
-  text-align: center;
-}
-
-.instagram:hover {
-  background-color:white;
-  color:orange;
-  transition:background-color 1s;
 }
 
 .twitter {
   background-color:cyan;
-  text-align: center;
-}
-
-.twitter:hover {
-  background-color:white;
-  color:lightblue;
-  transition:background-color 1s;
 }
 
 .kizai {
   background-color:lightgreen;
-  text-align:center;
 }
-
-.kizai:hover {
-  background-color:white;
-  color:lightgreen;
-  transition:background-color 1s;
-}
-
 
 .schedule {
   text-align:center;
