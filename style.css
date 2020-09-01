@@ -21,12 +21,14 @@
 }
 
 .sns a{
+  display:inline-block;
   font-family: monospace;
   letter-spacing:15px;
   font-size:40px;
   padding:20px 40px;
   border-radius:10px;
   color:black;
+  float:left;
 }
 
 .youtube {
