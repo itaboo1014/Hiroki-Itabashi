@@ -1,22 +1,22 @@
 .header-background {
-  
-}
-
-.header {
   background-image:url(5812F245-E582-4335-B44D-F6F8BBFEA7D4.jpeg);
   background-size:cover;
   padidng-top:400px;
   padding-bottom:400px;
-  color:black;
+}
+
+.header {
+  height:80px;
+  
 }
 
 .header h1 {
-  padding-top:100px;
   font-size:50px;
   text-align:center;
+  float:right;
 }
 
-.header span{
+.header h1 span{
   color:red;
 }
 
