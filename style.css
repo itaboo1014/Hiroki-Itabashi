@@ -28,7 +28,9 @@
 .sns a{
   font-family: monospace;
   letter-spacing:15px;
+  float:right;
   font-size:30px;
+  color:white;
 }
 
 .youtube {
