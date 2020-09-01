@@ -22,30 +22,25 @@
 
 .sns a{
   width:25%;
-  display:inline-block;
   font-family: monospace;
   letter-spacing:15px;
   font-size:30px;
-  padding:20px 40px;
-  border-radius:10px;
-  color:black;
-  
 }
 
 .youtube {
-  background-color:red;
+  
 }
 
 .instagram {
-  background-color:orange;
+ 
 }
 
 .twitter {
-  background-color:cyan;
+  
 }
 
 .kizai {
-  background-color:lightgreen;
+  
 }
 
 .schedule {
