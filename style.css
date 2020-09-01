@@ -21,10 +21,11 @@
 }
 
 .sns a{
+  width:25%;
   display:inline-block;
   font-family: monospace;
   letter-spacing:15px;
-  font-size:40px;
+  font-size:30px;
   padding:20px 40px;
   border-radius:10px;
   color:black;
