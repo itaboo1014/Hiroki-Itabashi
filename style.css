@@ -29,9 +29,7 @@
 
 .sns a{
   font-family: monospace;
-  letter-spacing:15px;
   float:right;
-  font-size:30px;
   color:white;
   opacity:1.0;
 }
@@ -40,16 +38,32 @@
   
 }
 
+.youtube span{
+  font-size:100px;
+}
+
 .instagram {
- 
+  
+}
+
+.instagram span{
+    font-size:100px;
 }
 
 .twitter {
   
 }
 
+.twitter span{
+  font-size:100px;
+}
+
 .kizai {
   
+}
+
+.kizai span{
+  font-size:100px;
 }
 
 .schedule {
