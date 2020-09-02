@@ -33,7 +33,7 @@
   
 }
 
-.youtube {
+.youtube a{
   color:white;
   opacity:1.0;
   font-size:50px;
@@ -42,7 +42,7 @@
 }
 
 
-.instagram {
+.instagram a{
   color:white;
   opacity:1.0;
   font-size:50px;
@@ -52,7 +52,7 @@
 
 
 
-.twitter {
+.twitter a{
   color:white;
   opacity:1.0;
   font-size:50px;
@@ -62,7 +62,7 @@
 
 
 
-.kizai {
+.kizai a{
   color:white;
   opacity:1.0;
   font-size:50px;
