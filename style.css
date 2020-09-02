@@ -31,6 +31,7 @@
   float:right;
   color:white;
   opacity:1.0;
+  font-size:50px;
 }
 
 .youtube {
@@ -38,7 +39,7 @@
 }
 
 .youtube span{
-  font-size:100px;
+  
 }
 
 .instagram {
@@ -46,7 +47,7 @@
 }
 
 .instagram span{
-    font-size:100px;
+    
 }
 
 .twitter {
@@ -54,7 +55,7 @@
 }
 
 .twitter span{
-  font-size:100px;
+  
 }
 
 .kizai {
@@ -62,7 +63,7 @@
 }
 
 .kizai span{
-  font-size:100px;
+  
 }
 
 .schedule {
