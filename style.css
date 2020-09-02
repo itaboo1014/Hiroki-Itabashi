@@ -30,43 +30,47 @@
   font-family: monospace;
   margin-right:20px;
   float:right;
+  
+}
+
+.youtube {
   color:white;
   opacity:1.0;
   font-size:50px;
   padding:20px;
-}
-
-.youtube {
   background-color:red;
 }
 
-.youtube span{
-  
-}
 
 .instagram {
+  color:white;
+  opacity:1.0;
+  font-size:50px;
+  padding:20px;
   background-color:orange;
 }
 
-.instagram span{
-    
-}
+
 
 .twitter {
+  color:white;
+  opacity:1.0;
+  font-size:50px;
+  padding:20px;
   background-color:cyan;
 }
 
-.twitter span{
-  
-}
+
 
 .kizai {
+  color:white;
+  opacity:1.0;
+  font-size:50px;
+  padding:20px;
   background-color:lightgreen;
 }
 
-.kizai span{
-  
-}
+
 
 .schedule {
   text-align:center;
