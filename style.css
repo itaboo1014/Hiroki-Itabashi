@@ -32,10 +32,11 @@
   color:white;
   opacity:1.0;
   font-size:50px;
+  padding:20px;
 }
 
 .youtube {
-  
+  background-color:red;
 }
 
 .youtube span{
@@ -43,7 +44,7 @@
 }
 
 .instagram {
-  
+  background-color:orange;
 }
 
 .instagram span{
@@ -51,7 +52,7 @@
 }
 
 .twitter {
-  
+  background-color:cyan;
 }
 
 .twitter span{
@@ -59,7 +60,7 @@
 }
 
 .kizai {
-  
+  background-color:lightgreen;
 }
 
 .kizai span{
