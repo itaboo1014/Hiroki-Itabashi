@@ -28,7 +28,7 @@
 
 .sns a{
   font-family: monospace;
-  margin-right:20px;
+  margin-right:30px;
   margin-top:10px;
   float:right;
   border-radius:10px;
@@ -67,6 +67,15 @@
   display:inline-block;
 }
 
+.rec a{
+  color:white;
+  opacity:1.0;
+  font-size:50px;
+  padding:15px 25px;
+  background-color:lightgreen;
+  border-radius:10px;
+  display:inline-block;
+}
 
 
 .kizai a{
@@ -78,8 +87,6 @@
   border-radius:10px;
   display:inline-block;
 }
-
-
 
 .schedule {
   text-align:center;
