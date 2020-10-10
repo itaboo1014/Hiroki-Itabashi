@@ -5,7 +5,6 @@
     }
     
     .background{
-        max-width: 1200px;
         background-image:url();
         background-color: white;
         height:100%;
@@ -153,3 +152,4 @@
    
 
 }
+
