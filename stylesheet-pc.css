@@ -7,7 +7,8 @@
     .background{
         background-image:url(5812F245-E582-4335-B44D-F6F8BBFEA7D4.jpeg);
         height:100%;
-        width:100%;
+        opacity:0.9;
+        position:fixed;
         color:black;
     }
 
