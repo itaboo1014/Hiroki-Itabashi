@@ -37,19 +37,19 @@
     .sns-contents{
         float: right;
         margin-top: 2px;
-        margin-right:10px;
+        margin-right:5px;
     }
         .sns{
             display:inline-block;
             padding:5px 10px;
             float:left;
             border-radius: 20px;
-            margin:5px;
+            margin:2px;
         }
 
         .sns a{
             color:white;
-            
+            font-size: 10px;
         }
         
         .youtube{
