@@ -6,18 +6,18 @@
     
     .background{
         background-image:url(5812F245-E582-4335-B44D-F6F8BBFEA7D4.jpeg);
-        background-color:rgba(255,255,255,0.9);
+        background-color:rgba(255,255,255,0.7);
         background-blend-mode:lighten;
         background-repeat: no-repeat;
         background-attachment: fixed;
+        background: center;
         width:100%;
         color:black;
     }
 
     .header {
         z-index: 10;
-        background-color: white;
-        opacity: 0.9;
+        background-color:rgba(255,255,255,0.9);
         width:100%;
         position:fixed;
        
@@ -58,13 +58,12 @@
             
         }
         .instagram{
-            background-color: coral;
+            background-color: rgb(255, 127, 80);
             
         }
         .twitter{
-            background-color:lightblue;
+            background-color:rgb(89, 196, 231);
         }
-
 
           
             
@@ -152,4 +151,3 @@
     }
 
 }
-
