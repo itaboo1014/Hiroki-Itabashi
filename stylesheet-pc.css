@@ -6,7 +6,9 @@
     
     .background{
         background-image:url();
-        background-color: white;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        
         height:100%;
         width:100%;
         color:black;
