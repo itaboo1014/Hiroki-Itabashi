@@ -6,7 +6,7 @@
     
     .background{
         background-image:url(5812F245-E582-4335-B44D-F6F8BBFEA7D4.jpeg);
-        background: center;
+        background-position:center center;
         background-color:rgba(255,255,255,0.7);
         background-blend-mode:lighten;
         background-repeat: no-repeat;
