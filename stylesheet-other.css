@@ -3,14 +3,16 @@
     strike{
         opacity: 0.5;
     }
-    
-    .background{
-        background-image:url();
-        background-color: white;
-        height:100%;
+     .background{
+        background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
+        background-color:rgba(255,255,255,0.9);
+        background-blend-mode:lighten;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
         width:100%;
         color:black;
     }
+
 
     .header {
         z-index: 10;
