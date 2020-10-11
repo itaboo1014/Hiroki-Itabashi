@@ -136,6 +136,10 @@
     .schedule h2{
         padding-bottom:10px;
     }
+    
+    .schedule p{
+        padding-top: 20px;
+    }
 
     .blog-contents{
         padding-top: 50px;
