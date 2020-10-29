@@ -1,5 +1,5 @@
-@media (min-width: 750px) {
-
+@media (min-width: 1024px){
+    
     strike{
         opacity: 0.5;
     }
@@ -48,6 +48,7 @@
         }
 
         .sns a{
+            text-decoration: none;
             color:white;
             font-weight: 700;
         }
@@ -89,6 +90,10 @@
         padding-top:200px;
         margin:0 auto;
         width:70%;
+    }
+
+    .site-link a{
+        text-decoration: none;
     }
 
 
@@ -174,7 +179,7 @@
         height: 0;
         opacity: 0;
         padding: 0 10px;
-        transition: .5s;
+        transition: 1s;
         visibility: hidden;
     }
     .acd-check:checked + .acd-label + .acd-content{
@@ -183,5 +188,6 @@
         padding: 10px;
         visibility: visible;
     }
+
 
 }
