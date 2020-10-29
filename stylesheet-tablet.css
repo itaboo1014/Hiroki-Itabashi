@@ -1,4 +1,4 @@
-@media (max-width: 749px) {
+@media (max-width: 1023px) and (min-width: 768px){
 
     strike{
         opacity: 0.5;
@@ -48,6 +48,7 @@
         }
 
         .sns a{
+            text-decoration: none;
             color:white;
             font-weight: 700;
         }
@@ -91,9 +92,14 @@
         width:70%;
     }
 
+    .site-link a{
+        text-decoration: none;
+    }
+
 
 
     .rec{
+        text-decoration: none;
         text-align: center;
         display:block;
         padding:5px 10px;
@@ -104,6 +110,7 @@
     }
 
     .kizai{
+        text-decoration: none;
         text-align: center;
         display:block;
         padding:5px 10px;
@@ -175,7 +182,7 @@
         height: 0;
         opacity: 0;
         padding: 0 10px;
-        transition: .5s;
+        transition: 1s;
         visibility: hidden;
     }
     .acd-check:checked + .acd-label + .acd-content{
@@ -185,6 +192,5 @@
         visibility: visible;
     }
 
-   
 
 }
