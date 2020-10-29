@@ -1,17 +1,16 @@
-@media (max-width: 600px) {
+@media (max-width: 767px){
 
-    
     strike{
         opacity: 0.5;
     }
     
     .background{
         background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
+        background-attachment: fixed;
         background-position:center center;
         background-color:rgba(255,255,255,0.7);
         background-blend-mode:lighten;
         background-repeat: no-repeat;
-        background-attachment: fixed;
         width:100%;
         color:black;
     }
@@ -29,7 +28,7 @@
     }
     .logo h1{
         float:left;
-        font-size: 15px;
+        font-size: 12px;
         margin-top:3px;
         color:black;
         
@@ -48,6 +47,7 @@
         }
 
         .sns a{
+            text-decoration: none;
             color:white;
             font-weight: 700;
             font-size: 10px;
@@ -93,8 +93,13 @@
         width:70%;
     }
 
+    .site-link a{
+        text-decoration: none;
+    }
+
 
     .rec{
+        text-decoration: none;
         text-align: center;
         display:block;
         padding:5px 10px;
@@ -105,6 +110,7 @@
     }
 
     .kizai{
+        text-decoration: none;
         text-align: center;
         display:block;
         padding:5px 10px;
@@ -176,7 +182,7 @@
         height: 0;
         opacity: 0;
         padding: 0 10px;
-        transition: .5s;
+        transition: 1s;
         visibility: hidden;
     }
     .acd-check:checked + .acd-label + .acd-content{
@@ -185,6 +191,5 @@
         padding: 10px;
         visibility: visible;
     }
-   
 
 }
