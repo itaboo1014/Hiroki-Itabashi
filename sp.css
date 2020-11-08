@@ -5,7 +5,7 @@
     }
     
     .background{
-        background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
+        background-image:url(hiroki_sanbashi.JPG);
         background-attachment: fixed;
         background-position:center center;
         background-color:rgba(255,255,255,0.7);
@@ -16,7 +16,7 @@
 
     .header {
         z-index: 10;
-        background-color:rgba(255,255,255,0.9);
+        background-color:rgba(255,255,255,0.1);
         width:100%;
         position:fixed;
     }
@@ -39,46 +39,50 @@
     }
         .sns{
             display:inline-block;
-            padding:5px 10px;
             float:left;
             border-radius: 20px;
             margin:2px;
         }
 
         .sns a{
+            padding:20px 15px;
             text-decoration: none;
             color:white;
             font-weight: 700;
             font-size: 10px;
         }
+
+        .sns .div{
+            display: none;
+        }
         
         .youtube{
             background-color:rgb(255,0,0);
-            box-shadow:0px 5px rgb(170, 0, 0);
+            box-shadow:0px 3px rgb(170, 0, 0);
         }
         .instagram{
             background-color: rgb(255, 127, 80);   
-            box-shadow:0px 5px rgb(187, 73, 11);
+            box-shadow:0px 3px rgb(187, 73, 11);
         }
         .twitter{
             background-color:rgb(89, 196, 231);
-            box-shadow:0px 5px rgb(21, 91, 121);
+            box-shadow:0px 3px rgb(21, 91, 121);
         }
 
         .youtube:hover {
             box-shadow:none;
             position:relative;
-            top:5px;
+            top:3px;
         }
         .instagram:hover {
             box-shadow:none;
             position:relative;
-            top:5px;
+            top:3px;
         }
         .twitter:hover {
             box-shadow:none;
             position:relative;
-            top:5px;
+            top:3px;
         }
 
 
