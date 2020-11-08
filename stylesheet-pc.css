@@ -5,7 +5,8 @@
     }
     
     .background{
-        background-image:url(5812F245-E582-4335-B44D-F6F8BBFEA7D4.jpeg);
+        background-image:url(hiroki_guitar.jpeg);
+        background-size: cover;
         background-position:center center;
         background-color:rgba(255,255,255,0.7);
         background-blend-mode:lighten;
@@ -16,7 +17,7 @@
 
     .header {
         z-index: 10;
-        background-color:rgba(255,255,255,0.9);
+        background-color:rgba(255,255,255,0.1);
         width:100%;
         position:fixed;
        
@@ -50,6 +51,10 @@
             text-decoration: none;
             color:white;
             font-weight: 700;
+        }
+
+        .sns .div{
+            
         }
         
         .youtube{
